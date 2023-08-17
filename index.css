@@ -1,0 +1,14 @@
+body{
+    background-color:antiquewhite
+}
+button{
+    background-color:green;
+    color:white;
+    font-weight:bold;
+}
+h1{
+    color:green;
+}
+.no.button{
+    background-color:red
+}
